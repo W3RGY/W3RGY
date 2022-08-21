@@ -17,3 +17,6 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-18003C?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100000730843835)
 [![Instagram](https://img.shields.io/badge/-Instagram-18003C?style=for-the-badge&logo=Instagram)](https://www.instagram.com/w3rgy/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-18003C?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/dima-osenkov-191b81246/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W3RGY&layout=compact)](https://github.com/W3RGY/github-readme-stats)
+
