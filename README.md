@@ -11,7 +11,6 @@
 ![VisualStudioCode](https://img.shields.io/badge/-VScode-18003C?style=for-the-badge&logo=VisualStudioCode)
 ![Git](https://img.shields.io/badge/-Git-18003C?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-18003C?style=for-the-badge&logo=GitHub)
-![Photoshop](https://img.shields.io/badge/-Photoshop-18003C?style=for-the-badge&logo=AdobePhotoshop)
 
 ### Follow Me
 [![Facebook](https://img.shields.io/badge/-Facebook-18003C?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100000730843835)
