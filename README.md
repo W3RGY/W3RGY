@@ -7,7 +7,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-18003C?style=for-the-badge&logo=CSS3&logoColor=254BDD)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-18003C?style=for-the-badge&logo=JavaScript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-18003C?style=for-the-badge&logo=Bootstrap)
-![Wordpress](https://img.shields.io/badge/-Wordpress-18003C?style=for-the-badge&logo=Wordpress)
 ![VisualStudioCode](https://img.shields.io/badge/-VScode-18003C?style=for-the-badge&logo=VisualStudioCode)
 ![Git](https://img.shields.io/badge/-Git-18003C?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-18003C?style=for-the-badge&logo=GitHub)
